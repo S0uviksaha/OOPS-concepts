@@ -5,8 +5,6 @@
 // 4. default - accessible only within the same package (no modifier)
 
 
-package L13_Access_Modifiers;
-
 class A{
     int a = 10; // default
     public int b = 20; // public

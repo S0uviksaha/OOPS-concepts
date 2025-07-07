@@ -1,6 +1,4 @@
 // Method Overriding
-package L11_Method_Overriding;
-
 class Bank{
     public void RateOfInterest(){
         System.out.println("General rate of interest is 6%");

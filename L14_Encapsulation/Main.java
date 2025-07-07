@@ -1,6 +1,5 @@
 // Encapsulation refers to the bundling of data (attributes) and methods 
 // it restricts direct access to some of an class's component that is private
-package L14_Encapsulation;
 
 class Students{
     private String name;
